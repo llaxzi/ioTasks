@@ -4,12 +4,12 @@
 ## /add POST
 ## /tasks GET - получить список задач
 ## /info GET - получить информацию по задаче
-json body:  
+json body example:  
 {
 "id":"2a65bfa8-51da-4e92-be77-c4400b55e3ec"
 }
 ## /delete DELETE
-json body:  
+json body example:  
 {
 "id":"2a65bfa8-51da-4e92-be77-c4400b55e3ec"
 }
